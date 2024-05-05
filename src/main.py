@@ -1,16 +1,13 @@
-# This is a sample Python script.
+from Process import DiffusionProcess
+from Parameters import Option_Parameters
+from Black_Sholes_Pricer import BS_pricer
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+opt_params = Option_Parameters(S0=100, K=100, T=1, exercise="European", payoff="call")
+diff_params = DiffusionProcess(r=0.1, sigma=0.2)
+BS = BS_pricer(option_info=opt_params, process_info=diff_params)
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    print(BS.BS_Price())
+    print((BS.MonteCarlo(N=1000000)))
+    print(BS.PDE(Nspace=1000,Ntime=1000))
+    BS.surface_plot()
