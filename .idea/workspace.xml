@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9d6c086-b0c6-4df6-8f7d-c107cee005e9" name="Changes" comment="trial">
-      <change afterPath="$PROJECT_DIR$/.idea/Financial_models.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BS_pricer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Heston_Pricer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Processes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+    <list default="true" id="e9d6c086-b0c6-4df6-8f7d-c107cee005e9" name="Changes" comment="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Parameters.py&#10;#&#9;src/__init__.py&#10;#&#9;src/main.py">
       <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +123,47 @@
       <option name="project" value="LOCAL" />
       <updated>1713439777057</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="trial">
+      <option name="closed" value="true" />
+      <created>1721577056580</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721577056580</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Parameters.py&#10;#&#9;src/__init__.py&#10;#&#9;src/main.py">
+      <option name="closed" value="true" />
+      <created>1721577175909</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721577175909</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Parameters.py&#10;#&#9;src/__init__.py&#10;#&#9;src/main.py">
+      <option name="closed" value="true" />
+      <created>1721577198863</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721577198863</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Parameters.py&#10;#&#9;src/__init__.py&#10;#&#9;src/main.py">
+      <option name="closed" value="true" />
+      <created>1721577277628</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721577277628</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Parameters.py&#10;#&#9;src/__init__.py&#10;#&#9;src/main.py">
+      <option name="closed" value="true" />
+      <created>1721577328629</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721577328629</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,7 +179,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="trial" />
-    <option name="LAST_COMMIT_MESSAGE" value="trial" />
+    <MESSAGE value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Parameters.py&#10;#&#9;src/__init__.py&#10;#&#9;src/main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Parameters.py&#10;#&#9;src/__init__.py&#10;#&#9;src/main.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
