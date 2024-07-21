@@ -1,6 +1,5 @@
 
 
-<<<<<<< HEAD
 class Option_param :
     """
     class to define the params of the option S0,K,r,T, and v0 optional (spot variance)
@@ -18,7 +17,6 @@ class Option_param :
             self.payoff=payoff
         else :
             raise ValueError("invalid payoff type .")
-=======
 
 class Option_Parameters:
 
@@ -38,4 +36,3 @@ class Option_Parameters:
             raise ValueError("Specify a valid payoff type ")
 
 
->>>>>>> github/master
