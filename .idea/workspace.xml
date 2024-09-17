@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9d6c086-b0c6-4df6-8f7d-c107cee005e9" name="Changes" comment="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Parameters.py&#10;#&#9;src/__init__.py&#10;#&#9;src/main.py">
-      <change afterPath="$PROJECT_DIR$/src/COS_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Diffusion_Processes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_Option_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BS_pricer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/BS_pricer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Black_Sholes_Pricer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Heston_Pricer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heston_Pricer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Option_Info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Process.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Processes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="e9d6c086-b0c6-4df6-8f7d-c107cee005e9" name="Changes" comment="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Parameters.py&#10;#&#9;src/__init__.py&#10;#&#9;src/main.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -240,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721577574317</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'github/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Parameters.py&#10;#&#9;src/__init__.py&#10;#&#9;src/main.py">
+      <option name="closed" value="true" />
+      <created>1726581600093</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726581600093</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
